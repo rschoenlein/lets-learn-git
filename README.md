@@ -53,3 +53,4 @@ A playground for those who want to learn git
 - John Maxwell Distinti
 - Reid Whitson
 - Nick Latham
+- Ryan Schoenlein
